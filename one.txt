@@ -1,0 +1,2 @@
+file 2 has been added to one.txt
+file 1 hase been added
